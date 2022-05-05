@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Course",
+      "projection": "CourseL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Student",
+  "name": "IISTest_ProjectStudentE",
+  "className": "StudentE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-project-student",
+      "modelProjection": "StudentE"
+    }
+  ]
+}

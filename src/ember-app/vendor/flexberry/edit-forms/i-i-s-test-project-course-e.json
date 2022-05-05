@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Course",
+  "name": "IISTest_ProjectCourseE",
+  "className": "CourseE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-project-course",
+      "modelProjection": "CourseE"
+    }
+  ]
+}

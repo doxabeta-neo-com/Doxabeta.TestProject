@@ -1,0 +1,1 @@
+docker-compose -p test_project up -d

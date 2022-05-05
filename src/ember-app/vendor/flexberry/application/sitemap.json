@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Test_ project",
+  "applicationTitle": "Test_ project",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test-project",
+      "caption": "Test_Project",
+      "title": "Test_Project",
+      "children": [
+        {
+          "link": "i-i-s-test-project-course-l",
+          "menuName": null,
+          "caption": "Course",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test-project-student-l",
+          "menuName": null,
+          "caption": "Student",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
